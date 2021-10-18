@@ -14,7 +14,7 @@ header {
     overflow: auto;
     padding: 0 5em;
 }
-#task {
+#taskInput {
     width: 100%;
     padding: 8px;
     margin-bottom: 10px;
